@@ -2,9 +2,9 @@
 title: "Beholder"
 year: "2026"
 category: "Produto Digital"
-link: "https://worldbeholder.manus.space"
+link: "https://global-beholder.vercel.app/"
 linkLabel: "Explorar plataforma"
-embed: "https://worldbeholder.manus.space"
+embed: "https://global-beholder.vercel.app/"
 embedLabel: "Preview ao vivo"
 order: 6
 published: true

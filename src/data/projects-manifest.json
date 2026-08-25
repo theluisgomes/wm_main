@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T03:07:46.524Z",
+  "generatedAt": "2026-08-25T15:06:00.170Z",
   "projects": [
     {
       "slug": "penalty",
@@ -323,8 +323,8 @@
         "category": "Produto Digital",
         "partner": "",
         "brief": "Beholder é uma plataforma de inteligência geopolítica desenvolvida pela Wisemetrics para tornar os conflitos armados ao redor do mundo compreensíveis. Por meio de um mapa interativo, os usuários podem",
-        "url": "https://worldbeholder.manus.space",
-        "link": "https://worldbeholder.manus.space",
+        "url": "https://global-beholder.vercel.app/",
+        "link": "https://global-beholder.vercel.app/",
         "proof": null
       },
       "en": {
@@ -332,22 +332,22 @@
         "category": "Digital Product",
         "partner": "",
         "brief": "Beholder is a geopolitical intelligence platform built by Wisemetrics to make armed conflicts around the world understandable. Through an interactive map, users can explore the scale of each war, the ",
-        "url": "https://worldbeholder.manus.space",
-        "link": "https://worldbeholder.manus.space",
+        "url": "https://global-beholder.vercel.app/",
+        "link": "https://global-beholder.vercel.app/",
         "proof": null
       },
       "meta": {
         "title": "Beholder",
         "year": "2026",
         "category": "Digital Product",
-        "link": "https://worldbeholder.manus.space",
+        "link": "https://global-beholder.vercel.app/",
         "linkLabel": "Explore platform",
-        "embed": "https://worldbeholder.manus.space",
+        "embed": "https://global-beholder.vercel.app/",
         "embedLabel": "Live preview",
         "order": 6,
         "published": true,
         "brief": "Beholder is a geopolitical intelligence platform built by Wisemetrics to make armed conflicts around the world understandable. Through an interactive map, users can explore the scale of each war, the ",
-        "url": "https://worldbeholder.manus.space"
+        "url": "https://global-beholder.vercel.app/"
       }
     },
     {
